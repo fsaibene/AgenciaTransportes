@@ -25,7 +25,7 @@ namespace MVCTransportes.Controllers
         }
 
         [HttpPost]
-        public ActionResult Carga([Bind(Include = "Nombre, Apellido, DNI, Email, Celular, NroRegistro, Ciudad ")] Chofer Chofer)
+        public ActionResult Carga([Bind(Include = "Nombre, Apellido, DNI, Email, Celular, NroRegistro, Ciudad, IdChofer")] Chofer Chofer)
         {
             if (ModelState.IsValid)
             {
