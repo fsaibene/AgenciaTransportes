@@ -13,6 +13,6 @@ namespace MVCTransportes.Models
 
         }
         public DbSet<Chofer> Choferes { get; set; }
-        //public DbSet<Vehiculo> Clientes { get; set; }
+        public DbSet<Vehiculo> Vehiculos { get; set; }
     }
 }
