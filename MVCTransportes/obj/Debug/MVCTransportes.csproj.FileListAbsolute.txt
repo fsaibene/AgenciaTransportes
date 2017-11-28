@@ -44,3 +44,7 @@ C:\Users\cursonet\Documents\Fer\psa\AgenciaTransportes\MVCTransportes\bin\System
 C:\Users\cursonet\Documents\Fer\psa\AgenciaTransportes\MVCTransportes\obj\Debug\MVCTransportes.csprojResolveAssemblyReference.cache
 C:\Users\cursonet\Documents\Fer\psa\AgenciaTransportes\MVCTransportes\obj\Debug\MVCTransportes.dll
 C:\Users\cursonet\Documents\Fer\psa\AgenciaTransportes\MVCTransportes\obj\Debug\MVCTransportes.pdb
+C:\Users\cursonet\Documents\Fer\psa\AgenciaTransportes\MVCTransportes\bin\EntityFramework.dll
+C:\Users\cursonet\Documents\Fer\psa\AgenciaTransportes\MVCTransportes\bin\EntityFramework.SqlServer.dll
+C:\Users\cursonet\Documents\Fer\psa\AgenciaTransportes\MVCTransportes\bin\EntityFramework.xml
+C:\Users\cursonet\Documents\Fer\psa\AgenciaTransportes\MVCTransportes\bin\EntityFramework.SqlServer.xml

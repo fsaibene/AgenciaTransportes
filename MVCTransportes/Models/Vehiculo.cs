@@ -1,7 +1,10 @@
-﻿namespace MVCTransportes.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace MVCTransportes.Models
 {
     public class Vehiculo
     {
+        [Key]
         public int IdVehiculo { get; set; }
         public string Marca { get; set; }
         public string Modelo { get; set; }
