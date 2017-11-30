@@ -143,11 +143,12 @@
     <Compile Include="Controllers\ChoferController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\VehiculoController.cs" />
-    <Compile Include="Controllers\VehiculoTestController.cs" />
+    <Compile Include="Controllers\VehiculoOldController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AgenciaContext.cs" />
+    <Compile Include="Models\CheckVehiculoModelo.cs" />
     <Compile Include="Models\Chofer.cs" />
     <Compile Include="Models\Vehiculo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -172,12 +173,12 @@
     <Content Include="Views\Chofer\Listar.cshtml" />
     <Content Include="Views\Chofer\Index.cshtml" />
     <Content Include="Views\Chofer\Carga.cshtml" />
+    <Content Include="Views\VehiculoOld\Create.cshtml" />
     <Content Include="Views\Vehiculo\Create.cshtml" />
-    <Content Include="Views\VehiculoTest\Create.cshtml" />
-    <Content Include="Views\VehiculoTest\Delete.cshtml" />
-    <Content Include="Views\VehiculoTest\Details.cshtml" />
-    <Content Include="Views\VehiculoTest\Edit.cshtml" />
-    <Content Include="Views\VehiculoTest\Index.cshtml" />
+    <Content Include="Views\Vehiculo\Delete.cshtml" />
+    <Content Include="Views\Vehiculo\Details.cshtml" />
+    <Content Include="Views\Vehiculo\Edit.cshtml" />
+    <Content Include="Views\Vehiculo\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
